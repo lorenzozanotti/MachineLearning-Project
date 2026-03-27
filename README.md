@@ -1,7 +1,7 @@
 # Credit Card Fraud Detection: A Machine Learning Approach
 
 ### Authors
-This project was developed by **Tommaso Arone**, **Daniele Meloni**, and **Lorenzo Zanotti**.
+This project was developed by **Lorenzo Zanotti**, **Tommaso Arone**, and **Clelia Meloni**.
 
 ---
 
